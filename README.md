@@ -32,6 +32,15 @@ We may share your information in the following ways:
 
 You can choose to limit the information you provide to us when you register for the app. You can also choose to delete your account and the information associated with it at any time. Please note that some information may remain in our records even after you delete your account.
 
+## User-Generated Content Precautions
+
+We take specific precautions to moderate content and prevent abusive behavior on our app. By using the app, you agree to the following:
+
+* Terms and Conditions: You must agree to the End-User License Agreement (EULA) and our terms of service, which make it clear that there is no tolerance for objectionable content or abusive users.
+* Filtering objectionable content: We have a method for filtering objectionable content and removing it from the app.
+* Blocking abusive users: We have a mechanism for users to block abusive users from contacting them.
+* Reporting objectionable content: We act on objectionable content reports within 24 hours by removing the content and ejecting the user who provided the offending content.
+
 ## Security
 
 We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.
